@@ -37,6 +37,7 @@ Deploy Splunk in a lab environment and collect security-relevant logs from a Win
 - Screenshots of Splunk dashboards showing Windows logs
 - Forwarder status confirmation
 - Sample SPL queries and results
+![Screenshot](images/s1.jpg)
 
 ---
 
