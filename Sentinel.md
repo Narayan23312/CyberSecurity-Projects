@@ -22,3 +22,5 @@ This project documents the deployment of **Microsoft Sentinel** within an Azure 
 ## What I Learned
 - Hands-on experience with Microsoft Sentinel SIEM architecture
 - How Windows Event Logs support security detection
+
+## ![Screenshot](images/s6.jpg)
