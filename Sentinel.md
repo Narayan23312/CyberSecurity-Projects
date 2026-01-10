@@ -18,3 +18,7 @@ This project documents the deployment of **Microsoft Sentinel** within an Azure 
 - **Microsoft Sentinel**
 - **Azure Log Analytics Workspace**
 - **Azure Virtual Network (VNet)**
+
+## What I Learned
+- Hands-on experience with Microsoft Sentinel SIEM architecture
+- How Windows Event Logs support security detection
